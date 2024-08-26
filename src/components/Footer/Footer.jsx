@@ -11,7 +11,7 @@ function Footer() {
                         <div className="flex h-full flex-col justify-between">
                             <div className="mb-4 inline-flex items-center">
                                 <img
-                                    className='w-[80vw] h-[60vh] max-w-[90%] max-h-[80%] rounded-lg relative left-[8.5vw] md:w-[15vw] md:h-[25vh] md:left-[8.5vw]'
+                                    className='w-[80vw] h-[60vh] max-w-[90%] max-h-[80%] rounded-lg relative left-[8.5vw] md:w-[15vw] md:h-[25vh] md:left-[7.5vw]'
                                     src="https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1724371200&semt=ais_hybrid"
                                     alt=""
                                 />
